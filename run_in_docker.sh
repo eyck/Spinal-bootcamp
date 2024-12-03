@@ -1,0 +1,1 @@
+docker run -it --rm -v $PWD:/home/jovyan/bootcamp -p 8888:8888 almondsh/almond:latest
